@@ -1,6 +1,6 @@
 # django-rest-APIs-JWTAuthentication
 
-assignment project is a project and the blog is an app
+blog is an app in this project and I have implemented jwt token authentication to every API.
 
 ![Screenshot (11)](https://github.com/shashimadappa/django-rest-APIs-JWTAuthentication/assets/103553061/78f14d37-a8f2-462f-82e7-7655e09ee762)
 1: Register a user 
