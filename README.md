@@ -18,8 +18,7 @@ assignment project is a project and the blog is an app
 5:get all blogs
 
 ![Screenshot (16)](https://github.com/shashimadappa/django-rest-APIs-JWTAuthentication/assets/103553061/82285225-37b7-4bc2-bb3a-c486268f45c9)![Screenshot (17)]
-6:
+6:update a blog with the id
 
-(https://github.com/shashimadappa/django-rest-APIs-JWTAuthentication/assets/103553061/4b2253b7-d41b-4b50-8006-5f9d0ae2c605)
-7:
-
+![Screenshot (17)](https://github.com/shashimadappa/django-rest-APIs-JWTAuthentication/assets/103553061/ce9ab440-a241-424b-8b6b-42f6184ca59b)
+7:if authentication fails gives invalid token
